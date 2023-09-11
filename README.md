@@ -91,7 +91,7 @@ Explain what you did to your colleagues.
 
 ## Latest instructions
 
-Prerequisites: [JS Basics 05](https://odyssey.wildcodeschool.com/quests/1270), ☆ [JS Basics 06](https://odyssey.wildcodeschool.com/quests/1278)
+Prerequisites: [JS Basics 05](https://odyssey.wildcodeschool.com/quests/1270)
 {:.alert-info}
 
 You are almost done, now that you have made a first condition, add the conditions for _all operators_:
@@ -99,6 +99,9 @@ You are almost done, now that you have made a first condition, add the condition
 - Edit your code and add conditions for the `"-"`, `"*"` and `"/"` operators: consider the `else if` construct.
 - In each case, display the result of the corresponding mathematical operation with a `console.log`.
 - Add a default case with a final `else` that displays `"Invalid operator"`.
+
+☆ Prerequisites: [JS Basics 06](https://odyssey.wildcodeschool.com/quests/1278)
+{:.alert-info}
 
 **☆ Bonus:** Move all code into a function to make it reusable.
 
