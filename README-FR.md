@@ -12,9 +12,9 @@ Pré-requis : [JS Basics 01](https://odyssey.wildcodeschool.com/quests/1262), [J
 Important : les premières étapes sont à faire avec votre terminal !
 {: .alert-warning}
 
-Créez un nouveau dossier `simple-calculator` et créez un fichier index.html vide à l’intérieur.
+Créez un nouveau dossier `simple-calculator` et créez un fichier `index.html` vide à l’intérieur.
 
-Ouvrez index.html avec VSCode et ajoutez la structure HTML5.
+Ouvrez `index.html` avec VSCode et ajoutez la structure HTML5.
 
 Dans la balise `<body>` ajoutez une balise `<script>` avec le code suivant :
 
@@ -22,7 +22,7 @@ Dans la balise `<body>` ajoutez une balise `<script>` avec le code suivant :
 console.log("Hello wilders!");
 ```
 
-Ouvrez le fichier index.html dans un navigateur, et afficher la console (F12), que voyez-vous ? Si vous voyez votre message ci-dessus, cela signifie que tout fonctionne bien !
+Ouvrez le fichier `index.html` dans un navigateur, et afficher la console (F12), que voyez-vous ? Si vous voyez votre message ci-dessus, cela signifie que tout fonctionne bien !
 
 Pour être sûr, expliquez ce que vous avez fait à vos collègues.
 
@@ -65,7 +65,7 @@ Maintenant, vous allez faire autant de `console.log` que vous avez de variable. 
 
 Et si on demande l’avis de l’utilisateur ? Nous allons utiliser la fonction `prompt` (voir [la documentation](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt)) et assigner des valeurs choisies par l'utilisateur à nos variables. (Attention, pas `operator`, juste les valeurs)
 
-Qu’affichent les console.log ?
+Qu’affichent les `console.log` ?
 
 ### On comprend la console
 
@@ -73,7 +73,7 @@ Ajoutez un `console.log` de `firstValue + secondValue` : qu’affiche t-il ? Pou
 
 Et maintenant, qu’affiche le `console.log` ? Pourquoi ?
 
-Pour être sûr, expliquez ce que vous avez fait à vos collègues
+Pour être sûr, expliquez ce que vous avez fait à vos collègues.
 
 ## On agit sur l'opérateur
 
