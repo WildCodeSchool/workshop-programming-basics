@@ -119,7 +119,7 @@ Mêmes étapes que pour la partie [“Mise en place de l'atelier”](#mise-en-pl
 - Demandez le nom du joueur ou de la joueuse.
 - Stockez un nombre aléatoire entre 1 et 100 (le prix à trouver).
 
-cadeau : `const rightPrice = Math.ceil(Math.random() \* 100);`
+cadeau : `const rightPrice = Math.ceil(Math.random() * 100);`
 {: .alert-info}
 
 - Demander un nombre au joueur ou à la joueuse (entre 1 et 100).

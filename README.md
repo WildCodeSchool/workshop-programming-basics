@@ -119,7 +119,7 @@ Same steps as for the part [“Setting up the workshop”](#setting-up-the-works
 - Ask for the name of the player.
 - Store a random number between 1 and 100 (the price to find).
 
-gift: `const rightPrice = Math.ceil(Math.random() \* 100);`
+gift: `const rightPrice = Math.ceil(Math.random() * 100);`
 {:.alert-info}
 
 - Ask the player for a number (between 1 and 100).
